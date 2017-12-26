@@ -1,0 +1,12 @@
+{
+    "name": "onini/users",
+    "description": "system users package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "太年轻",
+            "email": "tthd@163.com"
+        }
+    ],
+    "require": {}
+}
